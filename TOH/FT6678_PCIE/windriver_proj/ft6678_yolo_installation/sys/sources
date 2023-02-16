@@ -1,0 +1,12 @@
+# The sources for the FT6678_YOLO device driver:
+
+TARGETNAME=FT6678_YOLO
+TARGETTYPE=DRIVER
+TARGETPATH=obj
+NO_SAFESEH=1
+INCLUDES=$(WD_BASEDIR)\include;$(WD_BASEDIR)
+TARGETLIBS= \
+    C:\WinDriver\lib\windrvr1221.lib \
+    $(DDK_LIB_PATH)\ntoskrnl.lib \
+$(DDK_LIB_PATH)\usbd.lib
+SOURCES= FT6678_YOLO.rc

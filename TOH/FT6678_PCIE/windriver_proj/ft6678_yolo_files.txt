@@ -1,0 +1,33 @@
+The DriverWizard has created:
+* A sample diagnostics application for testing the communication with
+  your hardware from the user mode.
+* Library files, which include API for controlling your hardware.
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/ft6678_yolo_files.txt
+         A detailed overview of all the generated files.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/lib/
+         The folder containing the PCI .NET library source code.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/diag/FT6678_YOLO_diag.cs
+         The sample user-mode application that diagnoses your
+         hardware using the PCI .NET library.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/ft6678_yolo_msdev_2013_AMD64.sln
+         Microsoft Developer Studio (.NET 2013) Solution File for the
+         AMD 64 Bit Platform.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/diag/ft6678_yolo_diag_msdev_2013AMD64.csproj.
+         Microsoft Developer Studio (.NET 2013) Project File for the
+         AMD 64 Bit Platform.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/lib/ft6678_yolo_lib_msdev_2013AMD64.csproj.
+         Microsoft Developer Studio (.NET 2013) Project File for the
+         AMD 64 Bit Platform.
+
+  C:/Users/Administrator/Desktop/FT6678_PCIE/windriver_proj/ft6678_yolo.inf
+         A formatted reference file for Windows that contains
+         information about installation files and devices, such as
+         filenames, version information and so on.
+
+Compiling this project:
+  For MSDEV.NET, open Visual Studio .NET, load the project file and compile

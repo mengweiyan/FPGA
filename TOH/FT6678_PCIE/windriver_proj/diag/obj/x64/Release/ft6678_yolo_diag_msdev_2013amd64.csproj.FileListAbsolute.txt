@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\bin\Release\v4.0.30319\ft6678_yolo_diag.exe
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\bin\Release\v4.0.30319\ft6678_yolo_lib.dll
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\bin\Release\v4.0.30319\wdapi_dotnet1221.dll
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\ft6678_yolo_diag_msdev_2013amd64.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\Jungo.ft6678_yolo_diag.AddrSpaceTransferForm.resources
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\Jungo.ft6678_yolo_diag.CfgTransfersForm.resources
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\Jungo.ft6678_yolo_diag.RegistersForm.resources
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\Jungo.ft6678_yolo_diag.FT6678_YOLO_diag.resources
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\ft6678_yolo_diag_msdev_2013amd64.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\diag\obj\x64\Release\ft6678_yolo_diag.exe

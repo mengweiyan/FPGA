@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\lib\bin\Release\v4.0.30319\ft6678_yolo_lib.dll
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\lib\bin\Release\v4.0.30319\wdapi_dotnet1221.dll
+C:\Users\Administrator\Desktop\FT6678_PCIE\windriver_proj\lib\obj\x64\Release\ft6678_yolo_lib.dll
